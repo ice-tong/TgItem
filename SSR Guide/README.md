@@ -12,7 +12,7 @@ vps（Virtual Private Server），虚拟专用服务器，就是用虚拟技术�
 vpn(Virtual Private Network), 虚拟专用网络，日常大多数谈到的vpn就是翻Q用的梯子，当然广义的梯子可不只是这样。原理了解不多，大概就是你的本地网络数据先通过国外的vps作为中转，然后送达到目标网站服务器这样子。
 
 - 什么是SS，SSR?</br>
-SSR是ShadowsocksR的缩写，一种代理工具，由SS(Shadowsocks)衍生而来。所以SSR是一种实现vpn的工具，也是目前较为流行的一种方式。</br>看看维基百科上的说明：
+SSR是ShadowsocksR的缩写，一种代理工具，由SS(Shadowsocks)衍生而来。严格意义上讲，SSR和vpn是有区别的，SSR走的是socks5代理，具体区别参照这篇博文[https://deeponion.org/community/threads/vpnss-ssr.901/](https://deeponion.org/community/threads/vpnss-ssr.901/)。</br>看看维基百科上的说明：
 	>ShadowsocksR是breakwa11发起的Shadowsocks分支，在Shadowsocks的基础上增加了一些数据混淆方式，称修复了部分安全问题并可以提高QoS优先级。</br>
 	>Shadowsocks的运行原理与其他代理工具基本相同，使用特定的中转服务器完成数据传输。</br>
 	>在服务器端部署完成后，用户需要按照指定的密码、加密方式和端口，使用客户端软件与其连接。在成功连接到服务器后，客户端会在本机上构建一个本地Socks5代理（或VPN、透明代理）。浏览网络时，网络流量会被分到本地Socks5代理，客户端将其加密之后发送到服务器，服务器以同样的加密方式将流量回传给客户端，以此实现代理上网。</br>
