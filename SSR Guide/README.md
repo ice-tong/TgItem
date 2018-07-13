@@ -84,7 +84,7 @@ putty下载，百度网盘链接：链接: [https://pan.baidu.com/s/13Yw8g0j9H0m
 
 ### 输入命令，运行脚本：`bash ssrmu.sh`
 </br>
-输入1回车，开始安装以及配置账户信息，详情可访问 [逗比根据地（点我）](https://doub.io/ss-jc60/) 查看。
+输入1回车，开始安装以及配置账户信息，详情可访问 [https://doub.io/ss-jc60/](https://doub.io/ss-jc60/) 查看。
 
 ![](https://i.imgur.com/6or1bh7.png)
 
@@ -92,6 +92,7 @@ putty下载，百度网盘链接：链接: [https://pan.baidu.com/s/13Yw8g0j9H0m
 最后得到如下：
 
 ![](https://i.imgur.com/QYkLHjK.png)
+
 </br>
 ### 其中，SSR二维码可以直接复制到浏览器打开，然后用SSR客户端扫一扫添加配置信息。
 
