@@ -21,7 +21,7 @@ def download(url, file_path):
 
 @bot.message_handler(content_types="photo")
 def get_photoes(message:telebot.types.Message):
-    print(message)
+    #print(message)
     message_dict = message.json
     chat_type = message_dict['chat']['type']
     if chat_type == 'private':
@@ -45,7 +45,7 @@ def get_photoes(message:telebot.types.Message):
     
 @bot.message_handler(content_types="video")
 def get_videos(message:telebot.types.Message):
-    print(message)
+    #print(message)
     video = message.video
     chat_type = message.chat.type
     if chat_type == 'private':
