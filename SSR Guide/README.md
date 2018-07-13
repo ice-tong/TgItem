@@ -45,7 +45,7 @@ SSR是ShadowsocksR的缩写，一种代理工具，由SS(Shadowsocks)衍生而�
 ![注册示例](https://i.imgur.com/bMoX0mE.png)
 
 </br>
-&emsp;&emsp;注册好之后，就去购买一台vps。我现在选择一台[月付三美元的vps](https://portal.nfphosting.com/cart.php?a=confproduct&i=0)，如下图，root密码旁边的主机名字随便填一个,确认无误后，点击右侧的继续：：
+&emsp;&emsp;注册好之后，就去购买一台vps。我现在选择一台月付三美元的vps: https://portal.nfphosting.com/cart.php?a=confproduct&i=0 ，如下图，root密码旁边的主机名字随便填一个,确认无误后，点击右侧的继续：：
 
 ![月付2.95刀](https://i.imgur.com/5JzMXcZ.png)
 </br>
