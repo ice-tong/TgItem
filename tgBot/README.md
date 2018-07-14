@@ -77,7 +77,7 @@ pip install pyTelegramBotAPI
 ![SSR全局模式](https://i.imgur.com/26SE196.png)</br>
 </br>
 
-![idle打开](https://i.imgur.com/zFxQMFX.png).py) 
+![idle打开](https://i.imgur.com/zFxQMFX.png)
 </br>
 
 ![填入apitoken](https://i.imgur.com/naw7oVl.png)
