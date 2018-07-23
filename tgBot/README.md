@@ -71,7 +71,7 @@ pip install pyTelegramBotAPI
 
 ## 将你自己机器人的apitoken填入代码里面
 
-下载这个文件 --> [点我](https://github.com/ice-tong/TgItem/blob/master/tgBot/tgbot_for_download_media) 右键点击，用idle打开如图，然后复制自己的apitoken到代码里面。然后开启SSR全局模式，按f5键运行代码。</br>
+下载这个文件 --> [点我](https://github.com/ice-tong/TgItem/blob/master/tgBot/tgbot_for_download_media.py) 右键点击，用idle打开如图，然后复制自己的apitoken到代码里面。然后开启SSR全局模式，按f5键运行代码。</br>
 
 
 ![SSR全局模式](https://i.imgur.com/26SE196.png)</br>
